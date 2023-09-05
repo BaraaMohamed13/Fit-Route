@@ -17,4 +17,4 @@ Provide detailed instructions about how to install your project. For example:
 
 ## Usage
 
-<img src="Demo.gif"/>
+<img src="/Demo.gif"/>
